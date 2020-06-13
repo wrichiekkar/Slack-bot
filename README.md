@@ -2,7 +2,7 @@
 The objective of this project was to collect graphic scores (since pictures are always better :))  and post them to a slack channel when prompted. The slackbot is also to generate a report and send it out when prompted by the user.
 
 EX: User: What is the score?
-Accessibility Bot: The  score is: 57.5 (graphic 57.5).
+Bot: The  score is: 57.5 (graphic 57.5).
 
 
 <b>To start the slackbot, run Autorun.py (Change token in this file to autorun your bot)</b>
